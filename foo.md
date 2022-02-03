@@ -2,4 +2,5 @@
 
 ## Voraussetzung
 
-1. Erstelle neues Repoitory mit Gist
+1. Erstelle neues Repoitory mit GistPad
+
