@@ -2,4 +2,4 @@
 
 ## Voraussetzung
 
-1. <>
+1. 
