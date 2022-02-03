@@ -2,4 +2,4 @@
 
 ## Voraussetzung
 
-1. 
+1. Erstelle neues Repoitory mit Gis
